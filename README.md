@@ -1,4 +1,4 @@
-# GSoC 2024 Report: Container Chronicles 🚀
+# GSoC 2024 Final Report: Container Chronicles 🚀
 
 ![GSoC Logo](https://github.com/rudra-iitm/GSoC-2024-Final-Report/blob/main/GSoC_Logo.png)
 
@@ -76,7 +76,7 @@ The journey through containerization and Docker was a profound learning experien
 
 ## Dive Deeper: Essential Links & Resources 🌟
 
-### 🛠️ **Project Repositories**
+### 🛠️ Project Repositories
 
 Explore the codebases behind various printer apps:
 
@@ -86,7 +86,7 @@ Explore the codebases behind various printer apps:
 - **gutenprint-printer-app-rock**: [GitHub Repository](https://github.com/rudra-iitm/gutenprint-printer-app-rock)
 - **ghostscript-printer-app**: [GitHub Repository](https://github.com/rudra-iitm/ghostscript-printer-app-rock)
 
-### 🔄 **Noteworthy Pull Requests**
+### 🔄 Noteworthy Pull Requests
 
 Check out these significant contributions and updates:
 
@@ -94,11 +94,14 @@ Check out these significant contributions and updates:
 - **Version Automation Extension**: [Pull Request Link](https://github.com/ubuntu/desktop-snaps/pull/636)
 - **Rock-Version Schema Addition**: [Pull Request Link](https://github.com/ubuntu/desktop-snaps/pull/666)
 
-### 📚 **Documentation & Guides**
+### 📚 Documentation & Guides
 
 For a comprehensive guide on Rockcraft, visit the official documentation:
 
 - **Rockcraft Documentation**: [Explore Here](https://documentation.ubuntu.com/rockcraft/en/latest/)
+
+### 📝 Weekly GSoC Report Archive
+Journey through the weekly updates that shaped our project: [Weekly Report](https://www.notion.so/GSoC-Weekly-Report-cf1b9bc68e3c487191cf056ba43589f0)
 
 ## A Symphony of Thanks 🎶
 
