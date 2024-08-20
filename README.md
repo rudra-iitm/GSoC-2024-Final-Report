@@ -107,4 +107,4 @@ Journey through the weekly updates that shaped our project: [Weekly Report](http
 
 A heartfelt thank you to my mentors [Till Kamppeter](https://github.com/tillkamppeter), [Cristovao Cordeiro](https://github.com/cjdcordeiro), and [Saurav Dharwadkar](https://github.com/SauravDharwadkar) for their guidance and support. 
 
-A heartfelt tribute goes out to [Till Kamppeter](https://github.com/tillkamppeter). Without his guidance and leadership, this technical journey through code would have been directionless and silent.
+A special thanks goes out to [Till Kamppeter](https://github.com/tillkamppeter). Without his guidance and leadership, this technical journey through code would have been directionless and silent.
