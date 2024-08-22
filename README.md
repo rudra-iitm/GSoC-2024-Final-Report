@@ -37,12 +37,14 @@ The project embarked on an ambitious journey to encapsulate the Common Unix Prin
     - Automation scripts for maintenance and versioning
     - Comprehensive testing and validation
     - Detailed documentation for installation and usage
+    - Pushing the official OCI images of CUPS and Printer-Apps on container registry for easy access and distribution
 
 - **Delivered Treasures**:
-    - Fully functional OCI image for CUPS 
+    - Fully functional OCI image for CUPS with detailed documentaion on installation and usage
     - OCI images for various Printer Apps (ps-printer-app, hplip-printer-app, gutenprint-printer-app, ghostscript-printer-app)
     - Automation scripts for managing dependencies and updates
     - A GitHub CI pipeline for cups-rock to streamline processes
+    - GitHub workflows to automate the Rock build and image push to Docker Hub
     - Initial documentation for installation and usage
 
 - **Pending Adventures**:
